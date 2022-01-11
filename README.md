@@ -25,4 +25,5 @@
 - [Link to live application](https://carolinatnp.github.io/work-day-scheduler/)
 
 ## Usability
+![Screen Shot 2022-01-11 at 3 52 14 pm](https://user-images.githubusercontent.com/94167488/148883327-19c772bd-0dce-4fb9-8e44-73b0508b0455.png)
 
