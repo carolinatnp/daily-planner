@@ -22,7 +22,7 @@
 
 ## Links
 - [GitHub Repository](https://github.com/carolinatnp/work-day-scheduler)
-- [Link to live application]()
+- [Link to live application](https://carolinatnp.github.io/work-day-scheduler/)
 
 ## Usability
 
